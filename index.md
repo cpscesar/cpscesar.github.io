@@ -43,11 +43,8 @@ Doutorando em Saúde Global e Sustentabilidade pela Universidade de São Paulo (
 
 #### Trabalhos e Publicações (Últimos 3) ####
 
-- SOARES, CESAR PEDROSA; QUEIROGA, FABIANA . Dispositivos de Saúde Mental e Políticas Públicas: proposta de um instrumento para avaliar a implementação dos Centros de Atenção Psicossocial. Meta: Avaliação, v. 11, p. 438, 2019. [Link](http://revistas.cesgranrio.org.br/index.php/metaavaliacao/article/view/1938)
+- SOARES, L. P.; SOARES, C. P. Automatic Detection of COVID-19 Cases on X-ray images Using Convolutional Neural Networks. arXiv preprint arXiv:2007.05494, 2020. [Link](https://arxiv.org/abs/2007.05494)
 
-- CARBONE, A. S. ; COUTINHO, SMV ; SOARES, C. P. ; RIBEIRO, D. G. ; VASCONCELLOS, .. M. P. C. . Revisitando conceito e princípios de ordenamento territorial na realidade brasileira. Jornal da USP - Universidade de São Paulo, Artigos, 07 ago. 2019. [Link](https://jornal.usp.br/artigos/revisitando-conceito-e-principios-de-ordenamento-territorial-na-realidade-brasileira/)
+- SOARES, C. P.; QUEIROGA, F. Dispositivos de Saúde Mental e Políticas Públicas: proposta de um instrumento para avaliar a implementação dos Centros de Atenção Psicossocial. Meta: Avaliação, v. 11, p. 438, 2019. [Link](http://revistas.cesgranrio.org.br/index.php/metaavaliacao/article/view/1938)
 
-- SOARES, C. P.; VASCONCELLOS, .. M. P. C. . Políticas Públicas de Saúde e Ordenamento Territorial: uma análise descritiva e exploratória dos municípios brasileiros que recebem compensações financeiras. In: 26th APDR Congress, 2019, Aveiro/Portugal. Proceedings 26th APDR Congress, 2019.
-
-
-
+- CARBONE, A.S. ; COUTINHO, S.M.V. ; SOARES, C.P. ; RIBEIRO, D.G. ; VASCONCELLOS, M.P.C. Revisitando conceito e princípios de ordenamento territorial na realidade brasileira. Jornal da USP - Universidade de São Paulo, Artigos, 07 ago. 2019. [Link](https://jornal.usp.br/artigos/revisitando-conceito-e-principios-de-ordenamento-territorial-na-realidade-brasileira/)
